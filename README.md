@@ -38,9 +38,3 @@
 - **Backend:** Node.js
 - **Banco de Dados:** PostgreSQL
 - **Autenticação:** JWT (Json Web Token)
-
-
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
